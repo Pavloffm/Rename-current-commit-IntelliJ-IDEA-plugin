@@ -1,4 +1,4 @@
-# RenameCurrentCommit Plugin
+# Rename-current-commit-IntelliJ-IDEA-plugin
 
 **RenameCurrentCommit** is a JetBrains IntelliJ IDEA plugin that allows users to rename the most recent Git commit message directly from the IDE. This provides a seamless way to amend commit messages without using the terminal.
 
